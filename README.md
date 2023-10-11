@@ -2,9 +2,9 @@
 This project demonstrates your understanding of back-end development, JSON manipulation, objects, arrays, Express.js, and middleware. It creates an interactive website that displays different taco recipes to users using HTTP GET and POST methods.
 
 # Features
-## Interactive Interface: The website allows users to choose their favorite taco ingredients using three buttons (chicken, beef, fish).
+#### Interactive Interface: The website allows users to choose their favorite taco ingredients using three buttons (chicken, beef, fish).
 
-## Dynamic Recipe Display: Upon selecting an ingredient, the website dynamically updates to display the corresponding taco recipe with ingredients such as protein type, salsa, and toppings.
+#### Dynamic Recipe Display: Upon selecting an ingredient, the website dynamically updates to display the corresponding taco recipe with ingredients such as protein type, salsa, and toppings.
 
 # Project Structure
 index.js: The back-end server code built with Express.js.
